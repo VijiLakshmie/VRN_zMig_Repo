@@ -2,7 +2,7 @@
 000200 PROGRAM-ID.    TESTPGM1.
 000300 AUTHOR.        ANAND V.
 000800******************************************************************
-      * Feature branch Demo - 1
+      * Feature branch Demo - 2
 000900*  TEST PROGRAM.                                                 *
 001000******************************************************************
 001300 ENVIRONMENT DIVISION.
